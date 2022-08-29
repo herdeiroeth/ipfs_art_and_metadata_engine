@@ -1,4 +1,4 @@
-# hashlips_art_engine_ps_script
+# ipfs_art_and_metadata_engine
 This script allows you to generate art works right from photoshop.
 
 
